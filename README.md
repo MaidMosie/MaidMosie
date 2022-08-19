@@ -1,5 +1,5 @@
 I'm a beginner learning rust and coding as a whole.
-
+For more info about me, see my [gamebanana profile.](https://gamebanana.com/members/1732661)
 
 ```
    @@@@@@      @      @@@@Y    7@@@@     @   @@@@@
